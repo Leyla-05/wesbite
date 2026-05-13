@@ -29,11 +29,28 @@
     min-width: 160px;
   }
 
-.dropdown:hover 
+.dropdown:hover {}
 
 .dropdown-content {
     display: block;
   }
+
+
+/*container*/
+
+
+.container {
+  display: flex;
+  justify-content: start;
+}
+
+.container div {
+  margin: 10px;
+  padding: 10px;
+}
+
+
+
 
 
   
